@@ -22,7 +22,8 @@
             en: 'We use cookies to ensure that you have the best experience on our website. If you continue to use this site we assume that you accept this.',
             de: 'Wir verwenden Cookies um sicherzustellen, dass Sie das beste Erlebnis auf unserer Website haben.',
             fr: 'Nous utilisons des cookies afin d\'être sûr que vous pouvez avoir la meilleure expérience sur notre site. Si vous continuez à utiliser ce site, nous supposons que vous acceptez.',
-            pt: 'Utilizamos cookies para garantir que você tenha a melhor experiência em nosso site. Se você continuar a usar este site, assumimos que você aceita isso.'
+            pt: 'Utilizamos cookies para garantir que você tenha a melhor experiência em nosso site. Se você continuar a usar este site, assumimos que você aceita isso.',
+            es: 'Utilizamos cookies para asegurarnos de que puedas tener la mejor experiencia en nuestro sitio. Si continúas utilizando este sitio, asumimos que aceptas.'
         },
 
         cookieNoticePosition: 'bottom',
@@ -36,7 +37,8 @@
             en: 'Learn more',
             de: 'Mehr erfahren',
             fr: 'En savoir plus',
-            pt: 'Saber mais'
+            pt: 'Saber mais',
+            es: 'Más información'
         },
 
         buttonLocales: {
